@@ -1,5 +1,10 @@
 # ClarityFinder
 
+
+https://github.com/user-attachments/assets/3a0bc364-cb4c-4d3b-9d26-c98d059d7ef8
+
+
+
 ## Overview
 
 ClarityFinder is a powerful web query summarization tool that utilizes Gemini AI to deliver concise, relevant search results directly from the web. Designed for users who want to avoid sifting through countless pages, ClarityFinder aggregates and summarizes content, saving time and enhancing productivity.
